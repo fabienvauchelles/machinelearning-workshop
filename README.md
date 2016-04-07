@@ -3,13 +3,7 @@
 
 ## Installation
 
-1. Install Python 2.7
-
-2. Install requirements
-
-```
-pip install numpy scipy pandas scikit-learn matplotlib seaborn jupyter
-```
+Install the [Anaconda Distribution](https://www.continuum.io/downloads).
 
 
 ## Start the notebook
