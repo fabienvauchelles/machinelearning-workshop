@@ -5,9 +5,15 @@
 
 Install the [Anaconda Distribution](https://www.continuum.io/downloads).
 
+Install the [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn) package:
+
+```
+conda install seaborn
+```
+
 
 ## Start the notebook
 
 ```
-jypiter notebook
+jupyter notebook
 ```
