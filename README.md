@@ -3,9 +3,9 @@
 
 ## Installation
 
-Install the [Anaconda Distribution](https://www.continuum.io/downloads).
+Step 1: Install the [Anaconda Distribution](https://www.continuum.io/downloads).
 
-Install the [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn) package:
+Step 2: Install the [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn) package:
 
 ```
 conda install seaborn
